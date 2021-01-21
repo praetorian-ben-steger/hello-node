@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js",
+    "build": "ls",
+    "wpe-build": "ls",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
