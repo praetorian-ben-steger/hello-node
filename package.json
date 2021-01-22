@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "node index.js",
-    "build": "true",
-    "wpe-build": "true",
+    "build": "ls",
+    "wpe-build": "ls",
     "start": "node index.js"
   },
   "dependencies": {}
